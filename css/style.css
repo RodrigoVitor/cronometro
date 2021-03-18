@@ -1,0 +1,29 @@
+body {
+    background-color: azure;
+}
+div {
+    height:400px;
+    text-align:center;
+}
+
+div p {
+    font-size:2.8rem;
+    font-weight: bold;
+
+    margin-top:150px
+}
+
+div p span {
+    border:2px solid #000;
+    padding:10px;
+    
+    background-color: aqua;
+}
+
+div button {
+    width:100px;
+    padding:10px;
+    margin-right:20px;
+
+    background-color: rgb(207, 41, 41);
+}
